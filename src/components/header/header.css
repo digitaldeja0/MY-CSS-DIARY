@@ -1,0 +1,17 @@
+.header{
+    background-color: var(--drkClr);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.brandName{
+    font-family: var(--font1);
+    color: var(--white);
+    margin: var(--mainMargin);
+    font-weight: bold;
+}
+
